@@ -105,5 +105,5 @@ Future work:
 
 ---
 
-**Repository**: [github.com/krishna-bajpai/hyqcopt](https://github.com/krishna-bajpai/hyqcopt)  
+**Repository**: [https://github.com/krish567366/HyQCOpt](https://github.com/krish567366/HyQCOpt)  
 **License**: Apache 2.0 

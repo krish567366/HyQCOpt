@@ -164,5 +164,5 @@ with QuantumSecureSession(
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/krishna-bajpai/hyqcopt?style=social)](https://github.com/krishna-bajpai/hyqcopt)  
+[![GitHub Stars](https://img.shields.io/github/stars/krishna-bajpai/hyqcopt?style=social)](https://github.com/krish567366/HyQCOpt)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
