@@ -1,0 +1,17 @@
+{
+  "QuantumMetrics": {
+    "widgets": [
+      {
+        "type": "metric",
+        "properties": {
+          "metrics": [
+            ["HyQCOpt", "QubitUsage"],
+            ["HyQCOpt", "JobSuccessRate"]
+          ],
+          "period": 300,
+          "region": "us-east-1"
+        }
+      }
+    ]
+  }
+}

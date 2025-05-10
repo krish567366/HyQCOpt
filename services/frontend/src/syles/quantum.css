@@ -1,0 +1,39 @@
+.circuit-builder {
+  height: 100vh;
+  display: grid;
+  grid-template:
+    "controls viewer" 80px
+    "controls viewer" 1fr
+    "result   viewer" 100px / 250px 1fr;
+}
+
+.quantum-loader {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #00ffff;
+  border-radius: 50%;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.quantum-node {
+  background: linear-gradient(45deg, #1a237e, #4a148c);
+  border: 2px solid #7c4dff;
+  transition: all 0.3s ease;
+}
+
+.quantum-node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #7c4dff;
+}
+
+.quantum-result {
+  background: #00bcd4;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
